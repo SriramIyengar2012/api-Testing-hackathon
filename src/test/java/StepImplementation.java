@@ -41,6 +41,7 @@ public class StepImplementation {
         // Fetching Values from Data store
         Response response = (Response) ApiFactory.empAPI.scenarioStore.get("response");
         jsonResponse = response.then().statusCode(statusCode);
+        LoggingResult.logSuccessfulScenario();
 
     }
 
