@@ -1,0 +1,6 @@
+Compatible version of plugin html-report not found. Installing plugin html-report...
+........................
+Successfully installed plugin 'html-report'.
+Jan 06, 2019 12:01:15 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+[0mtime="2019-01-06T12:08:38Z" level=error msg="error waiting for container: unexpected EOF"

@@ -1,0 +1,8 @@
+[
+	"/usr/local/bin/gauge",
+	"run",
+	"--machine-readable",
+	"--hide-suggestion",
+	"--simple-console",
+	"/Users/sriramiyengar/Documents/hackathontest/Api_Testing/specs/api-test.spec:10"
+]
